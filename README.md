@@ -1,0 +1,1 @@
+A readme would be cool but this is just working with a JSON file. So there isn't much too read.

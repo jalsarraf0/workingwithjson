@@ -1,0 +1,417 @@
+{
+    "Flaps" : [
+    {
+        "Flap Setting" : 5,
+        "Temps" : [
+        {
+            "Temp" : "Below 20 F",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :102, "V2" : 116},
+                "Altitude2000" : { "Vr" :102, "V2" : 115},
+                "Altitude4000" : { "Vr" :102, "V2" : 114},
+                "Altitude6000" : { "Vr" :102, "V2" : 113},
+                "Altitude8000" : { "Vr" :102, "V2" : 112},
+                "Altitude10000" : { "Vr" :103, "V2" : 111}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :105, "V2" : 115},
+                "Altitude2000" : { "Vr" :106, "V2" : 114},
+                "Altitude4000" : { "Vr" :107, "V2" : 113},
+                "Altitude6000" : { "Vr" :107, "V2" : 112},
+                "Altitude8000" : { "Vr" :108, "V2" : 112},
+                "Altitude10000" : { "Vr" :110, "V2" : 111}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :112, "V2" : 117},
+                "Altitude2000" : { "Vr" :113, "V2" : 117},
+                "Altitude4000" : { "Vr" :113, "V2" : 117},
+                "Altitude6000" : { "Vr" :114, "V2" : 117},
+                "Altitude8000" : { "Vr" :115, "V2" : 117},
+                "Altitude10000" : { "Vr" :116, "V2" : 117}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :118, "V2" : 122},
+                "Altitude2000" : { "Vr" :119, "V2" : 122},
+                "Altitude4000" : { "Vr" :120, "V2" : 122},
+                "Altitude6000" : { "Vr" :120, "V2" : 122},
+                "Altitude8000" : { "Vr" :121, "V2" : 122},
+                "Altitude10000" : { "Vr" :122, "V2" : 122}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :124, "V2" : 127},
+                "Altitude2000" : { "Vr" :125, "V2" : 127},
+                "Altitude4000" : { "Vr" :126, "V2" : 127},
+                "Altitude6000" : { "Vr" :126, "V2" : 127},
+                "Altitude8000" : { "Vr" :127, "V2" : 127},
+                "Altitude10000" : { "Vr" :128, "V2" : 127}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" :130, "V2" : 132},
+                "Altitude2000" : { "Vr" :131, "V2" : 132},
+                "Altitude4000" : { "Vr" :131, "V2" : 132},
+                "Altitude6000" : { "Vr" :132, "V2" : 132},
+                "Altitude8000" : { "Vr" :133, "V2" : 132},
+                "Altitude10000" : { "Vr" :134, "V2" : 132}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" :133, "V2" : 135},
+                "Altitude2000" : { "Vr" :134, "V2" : 135},
+                "Altitude4000" : { "Vr" :135, "V2" : 135},
+                "Altitude6000" : { "Vr" :136, "V2" : 135},
+                "Altitude8000" : { "Vr" :137, "V2" : 135},
+                "Altitude10000" : { "Vr" :138, "V2" : 135}
+            }]
+        },
+        {
+            "Temp" : "Above 20",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :102, "V2" : 114},
+                "Altitude2000" : { "Vr" :102, "V2" : 113},
+                "Altitude4000" : { "Vr" :102, "V2" : 112},
+                "Altitude6000" : { "Vr" :103, "V2" : 111},
+                "Altitude8000" : { "Vr" :103, "V2" : 110},
+                "Altitude10000" : { "Vr" :105, "V2" : 109}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :107, "V2" : 113},
+                "Altitude2000" : { "Vr" :108, "V2" : 112},
+                "Altitude4000" : { "Vr" :108, "V2" : 112},
+                "Altitude6000" : { "Vr" :110, "V2" : 111},
+                "Altitude8000" : { "Vr" :110, "V2" : 111},
+                "Altitude10000" : { "Vr" :112, "V2" : 111}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :113, "V2" : 117},
+                "Altitude2000" : { "Vr" :114, "V2" : 117},
+                "Altitude4000" : { "Vr" :115, "V2" : 117},
+                "Altitude6000" : { "Vr" :116, "V2" : 117},
+                "Altitude8000" : { "Vr" :117, "V2" : 117},
+                "Altitude10000" : { "Vr" :118, "V2" : 117}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :120, "V2" : 122},
+                "Altitude2000" : { "Vr" :120, "V2" : 122},
+                "Altitude4000" : { "Vr" :121, "V2" : 122},
+                "Altitude6000" : { "Vr" :122, "V2" : 122},
+                "Altitude8000" : { "Vr" :123, "V2" : 122},
+                "Altitude10000" : { "Vr" :124, "V2" : 122}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :126, "V2" : 127},
+                "Altitude2000" : { "Vr" :126, "V2" : 127},
+                "Altitude4000" : { "Vr" :127, "V2" : 127},
+                "Altitude6000" : { "Vr" :128, "V2" : 127},
+                "Altitude8000" : { "Vr" :129, "V2" : 127},
+                "Altitude10000" : { "Vr" :130, "V2" : 127}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" :131, "V2" : 132},
+                "Altitude2000" : { "Vr" :132, "V2" : 132},
+                "Altitude4000" : { "Vr" :133, "V2" : 132},
+                "Altitude6000" : { "Vr" :134, "V2" : 132},
+                "Altitude8000" : { "Vr" :135, "V2" : 132},
+                "Altitude10000" : { "Vr" :136, "V2" : 132}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" :135, "V2" : 135},
+                "Altitude2000" : { "Vr" :136, "V2" : 135},
+                "Altitude4000" : { "Vr" :137, "V2" : 135},
+                "Altitude6000" : { "Vr" :138, "V2" : 135},
+                "Altitude8000" : { "Vr" :138, "V2" : 135},
+                "Altitude10000" : { "Vr" :140, "V2" : 135}
+            }]
+        }]
+    },
+    {
+        "Flap Setting" : 10,
+        "Temps" : [
+        {
+            "Temp" : "Below 20 F",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :100, "V2" : 111},
+                "Altitude2000" : { "Vr" :100, "V2" : 110},
+                "Altitude4000" : { "Vr" :100, "V2" : 110},
+                "Altitude6000" : { "Vr" :100, "V2" : 109},
+                "Altitude8000" : { "Vr" :100, "V2" : 108},
+                "Altitude10000" : { "Vr" :100, "V2" : 107}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :100, "V2" : 110},
+                "Altitude2000" : { "Vr" :100, "V2" : 109},
+                "Altitude4000" : { "Vr" :100, "V2" : 109},
+                "Altitude6000" : { "Vr" :100, "V2" : 108},
+                "Altitude8000" : { "Vr" :100, "V2" : 107},
+                "Altitude10000" : { "Vr" :101, "V2" : 106}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :103, "V2" : 109},
+                "Altitude2000" : { "Vr" :105, "V2" : 109},
+                "Altitude4000" : { "Vr" :105, "V2" : 108},
+                "Altitude6000" : { "Vr" :105, "V2" : 108},
+                "Altitude8000" : { "Vr" :106, "V2" : 108},
+                "Altitude10000" : { "Vr" :108, "V2" : 108}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :109, "V2" : 113},
+                "Altitude2000" : { "Vr" :110, "V2" : 113},
+                "Altitude4000" : { "Vr" :111, "V2" : 113},
+                "Altitude6000" : { "Vr" :111, "V2" : 113},
+                "Altitude8000" : { "Vr" :112, "V2" : 113},
+                "Altitude10000" : { "Vr" :113, "V2" : 113}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :115, "V2" : 118},
+                "Altitude2000" : { "Vr" :116, "V2" : 118},
+                "Altitude4000" : { "Vr" :116, "V2" : 118},
+                "Altitude6000" : { "Vr" :117, "V2" : 118},
+                "Altitude8000" : { "Vr" :118, "V2" : 118},
+                "Altitude10000" : { "Vr" :119, "V2" : 118}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" :120, "V2" : 122},
+                "Altitude2000" : { "Vr" :121, "V2" : 122},
+                "Altitude4000" : { "Vr" :122, "V2" : 122},
+                "Altitude6000" : { "Vr" :122, "V2" : 122},
+                "Altitude8000" : { "Vr" :123, "V2" : 122},
+                "Altitude10000" : { "Vr" :124, "V2" : 122}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" :124, "V2" : 125},
+                "Altitude2000" : { "Vr" :125, "V2" : 125},
+                "Altitude4000" : { "Vr" :125, "V2" : 125},
+                "Altitude6000" : { "Vr" :126, "V2" : 125},
+                "Altitude8000" : { "Vr" :127, "V2" : 125},
+                "Altitude10000" : { "Vr" :128, "V2" : 125}
+            }]
+        },
+        {
+            "Temp" : "Above 20",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :100, "V2" : 109},
+                "Altitude2000" : { "Vr" :100, "V2" : 109},
+                "Altitude4000" : { "Vr" :100, "V2" : 109},
+                "Altitude6000" : { "Vr" :100, "V2" : 107},
+                "Altitude8000" : { "Vr" :"---", "V2" : 106},
+                "Altitude10000" : { "Vr" :"---", "V2" : 105}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :100, "V2" : 108},
+                "Altitude2000" : { "Vr" :100, "V2" : 108},
+                "Altitude4000" : { "Vr" :100, "V2" : 107},
+                "Altitude6000" : { "Vr" :100, "V2" : 106},
+                "Altitude8000" : { "Vr" :"---", "V2" : 105},
+                "Altitude10000" : { "Vr" :"---", "V2" : 105}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :104, "V2" : 108},
+                "Altitude2000" : { "Vr" :106, "V2" : 108},
+                "Altitude4000" : { "Vr" :106, "V2" : 108},
+                "Altitude6000" : { "Vr" :106, "V2" : 108},
+                "Altitude8000" : { "Vr" :"---", "V2" : 108},
+                "Altitude10000" : { "Vr" :"---", "V2" : 108}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :110, "V2" : 113},
+                "Altitude2000" : { "Vr" :111, "V2" : 113},
+                "Altitude4000" : { "Vr" :112, "V2" : 113},
+                "Altitude6000" : { "Vr" :112, "V2" : 113},
+                "Altitude8000" : { "Vr" :"---", "V2" : 113},
+                "Altitude10000" : { "Vr" :"---", "V2" : 113}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :116, "V2" : 118},
+                "Altitude2000" : { "Vr" :117, "V2" : 118},
+                "Altitude4000" : { "Vr" :117, "V2" : 118},
+                "Altitude6000" : { "Vr" :118, "V2" : 118},
+                "Altitude8000" : { "Vr" :"---", "V2" : 118},
+                "Altitude10000" : { "Vr" :"---", "V2" : 118}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" :121, "V2" : 122},
+                "Altitude2000" : { "Vr" :122, "V2" : 122},
+                "Altitude4000" : { "Vr" :123, "V2" : 122},
+                "Altitude6000" : { "Vr" :123, "V2" : 122},
+                "Altitude8000" : { "Vr" :"---", "V2" : 122},
+                "Altitude10000" : { "Vr" :"---", "V2" : 122}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" :125, "V2" : 125},
+                "Altitude2000" : { "Vr" :125, "V2" : 125},
+                "Altitude4000" : { "Vr" :126, "V2" : 125},
+                "Altitude6000" : { "Vr" :127, "V2" : 125},
+                "Altitude8000" : { "Vr" :"---", "V2" : 125},
+                "Altitude10000" : { "Vr" :"---", "V2" : 125}
+            }]
+        }]
+    },
+    {
+        "Flap Setting" : 15,
+        "Temps" : [
+        {
+            "Temp" : "Below 20",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :98, "V2" : 106},
+                "Altitude2000" : { "Vr" :98, "V2" : 106},
+                "Altitude4000" : { "Vr" :98, "V2" : 105},
+                "Altitude6000" : { "Vr" :98, "V2" : 104},
+                "Altitude8000" : { "Vr" :98, "V2" : 103},
+                "Altitude10000" : { "Vr" :98, "V2" : 102}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :98, "V2" : 105},
+                "Altitude2000" : { "Vr" :98, "V2" : 105},
+                "Altitude4000" : { "Vr" :98, "V2" : 104},
+                "Altitude6000" : { "Vr" :98, "V2" : 103},
+                "Altitude8000" : { "Vr" :98, "V2" : 102},
+                "Altitude10000" : { "Vr" :98, "V2" : 102}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :100, "V2" : 104},
+                "Altitude2000" : { "Vr" :101, "V2" : 104},
+                "Altitude4000" : { "Vr" :101, "V2" : 104},
+                "Altitude6000" : { "Vr" :102, "V2" : 104},
+                "Altitude8000" : { "Vr" :103, "V2" : 104},
+                "Altitude10000" : { "Vr" :104, "V2" : 104}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :106, "V2" : 109},
+                "Altitude2000" : { "Vr" :106, "V2" : 109},
+                "Altitude4000" : { "Vr" :107, "V2" : 109},
+                "Altitude6000" : { "Vr" :108, "V2" : 109},
+                "Altitude8000" : { "Vr" :108, "V2" : 109},
+                "Altitude10000" : { "Vr" :109, "V2" : 109}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :111, "V2" : 113},
+                "Altitude2000" : { "Vr" :112, "V2" : 113},
+                "Altitude4000" : { "Vr" :112, "V2" : 113},
+                "Altitude6000" : { "Vr" :113, "V2" : 113},
+                "Altitude8000" : { "Vr" :114, "V2" : 113},
+                "Altitude10000" : { "Vr" :114, "V2" : 113}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" :116, "V2" : 118},
+                "Altitude2000" : { "Vr" :117, "V2" : 118},
+                "Altitude4000" : { "Vr" :117, "V2" : 118},
+                "Altitude6000" : { "Vr" :118, "V2" : 118},
+                "Altitude8000" : { "Vr" :118, "V2" : 118},
+                "Altitude10000" : { "Vr" :119, "V2" : 118}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" :119, "V2" : 120},
+                "Altitude2000" : { "Vr" :120, "V2" : 120},
+                "Altitude4000" : { "Vr" :120, "V2" : 120},
+                "Altitude6000" : { "Vr" :121, "V2" : 120},
+                "Altitude8000" : { "Vr" :122, "V2" : 120},
+                "Altitude10000" : { "Vr" :122, "V2" : 120}
+            }]
+        },
+        {
+            "Temp" : "Above 20",
+            "Weights" : [
+            {
+                "Weight" : 18000,
+                "Altitude0" : { "Vr" :98, "V2" : 105},
+                "Altitude2000" : { "Vr" :98, "V2" : 104},
+                "Altitude4000" : { "Vr" :98, "V2" : 103},
+                "Altitude6000" : { "Vr" :98, "V2" : 102},
+                "Altitude8000" : { "Vr" :98, "V2" : 102},
+                "Altitude10000" : { "Vr" :98, "V2" : 102}
+            },
+            {
+                "Weight" : 20000,
+                "Altitude0" : { "Vr" :98, "V2" : 103},
+                "Altitude2000" : { "Vr" :98, "V2" : 103},
+                "Altitude4000" : { "Vr" :98, "V2" : 102},
+                "Altitude6000" : { "Vr" :98, "V2" : 102},
+                "Altitude8000" : { "Vr" :98, "V2" : 102},
+                "Altitude10000" : { "Vr" :98, "V2" : 102}
+            },
+            {
+                "Weight" : 22000,
+                "Altitude0" : { "Vr" :101, "V2" : 104},
+                "Altitude2000" : { "Vr" :102, "V2" : 104},
+                "Altitude4000" : { "Vr" :103, "V2" : 104},
+                "Altitude6000" : { "Vr" :104, "V2" : 104},
+                "Altitude8000" : { "Vr" :104, "V2" : 104},
+                "Altitude10000" : { "Vr" :104, "V2" : 104}
+            },
+            {
+                "Weight" : 24000,
+                "Altitude0" : { "Vr" :107, "V2" : 109},
+                "Altitude2000" : { "Vr" :108, "V2" : 109},
+                "Altitude4000" : { "Vr" :108, "V2" : 109},
+                "Altitude6000" : { "Vr" :109, "V2" : 109},
+                "Altitude8000" : { "Vr" :110, "V2" : 109},
+                "Altitude10000" : { "Vr" :110, "V2" : 109}
+            },
+            {
+                "Weight" : 26000,
+                "Altitude0" : { "Vr" :112, "V2" : 113},
+                "Altitude2000" : { "Vr" :113, "V2" : 113},
+                "Altitude4000" : { "Vr" :114, "V2" : 113},
+                "Altitude6000" : { "Vr" :114, "V2" : 113},
+                "Altitude8000" : { "Vr" :115, "V2" : 113},
+                "Altitude10000" : { "Vr" :115, "V2" : 113}
+            },
+            {
+                "Weight" : 28000,
+                "Altitude0" : { "Vr" : 117, "V2" : 118},
+                "Altitude2000" : { "Vr" : 118, "V2" : 118},
+                "Altitude4000" : { "Vr" : 119, "V2" : 118},
+                "Altitude6000" : { "Vr" : 119, "V2" : 118},
+                "Altitude8000" : { "Vr" : 120, "V2" : 118},
+                "Altitude10000" : { "Vr" : 120, "V2" : 118}
+            },
+            {
+                "Weight" : 29000,
+                "Altitude0" : { "Vr" : 120, "V2" : 120},
+                "Altitude2000" : { "Vr" : 121, "V2" : 120},
+                "Altitude4000" : { "Vr" : 121, "V2" : 120},
+                "Altitude6000" : { "Vr" : 122, "V2" : 120},
+                "Altitude8000" : { "Vr" : 123, "V2" : 120},
+                "Altitude10000" : { "Vr" : 123, "V2" : 120}
+            }]
+        }]
+    }]
+}

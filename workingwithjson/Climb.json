@@ -1,0 +1,51 @@
+{
+    "Weights" : [{
+        "Weight" : 18000,
+        "flap5" : 116,
+        "flap10" : 110,
+        "flap15" : 107,
+        "vClimb" : 130
+    },
+    {
+        "Weight" : 20000,
+        "flaps5" : 120,
+        "flaps10" : 112,
+        "flaps15" : 109,
+        "vClimb" : 131
+    },
+    {
+        "Weight" : 22000,
+        "flaps5" : 126,
+        "flaps10" : 118,
+        "flaps15" : 115,
+        "vClimb" : 137
+    },
+    {
+        "Weight" : 24000,
+        "flaps5" : 132,
+        "flaps10" : 123,
+        "flaps15" : 120,
+        "vClimb" : 143
+    },
+    {
+        "Weight" : 26000,
+        "flaps5" : 137,
+        "flaps10" : 128,
+        "flaps15" : 125,
+        "vClimb" : 148
+    },
+    {
+        "Weight" : 28000,
+        "flaps5" : 142,
+        "flaps10" : 134,
+        "flaps15" : 130,
+        "vClimb" : 154
+    },
+    {
+        "Weight" : 29000,
+        "flaps5" : 146,
+        "flaps10" : 137,
+        "flaps15" : 133,
+        "vClimb" : 158
+    }]
+}

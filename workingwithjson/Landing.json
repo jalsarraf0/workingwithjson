@@ -1,0 +1,187 @@
+{
+    "Flaps" : [
+    {
+        "Flap Setting" : 5,
+        "Weight" : [
+        {
+            "Weight" : 18000,
+            "vapp" : 115,
+            "vref" : "---",
+            "vga" : 109
+        },
+        {
+            "Weight" : 20000,
+            "vapp" : 120,
+            "vref" : "---",
+            "vga" : 110
+        },
+        {
+            "Weight" : 22000,
+            "vapp" : 126,
+            "vref" : "---",
+            "vga" : 115
+        },
+        {
+            "Weight" : 24000,
+            "vapp" : 131,
+            "vref" : "---",
+            "vga" : 120
+        },
+        {
+            "Weight" : 26000,
+            "vapp" : 137,
+            "vref" : "---",
+            "vga" : 125
+        },
+        {
+            "Weight" : 28000,
+            "vapp" : 142,
+            "vref" : "---",
+            "vga" : 130
+        },
+        {
+            "Weight" : 29000,
+            "vapp" : 146,
+            "vref" : "---",
+            "vga" : 134
+        }]
+    },
+    {
+        "Flap Setting" : 10,
+        "Weight" : [
+        {
+            "Weight" : 18000,
+            "vapp" : 109,
+            "vref" : 108,
+            "vga" : 108
+        },
+        {
+            "Weight" : 20000,
+            "vapp" : 112,
+            "vref" : 112,
+            "vga" : 108
+        },
+        {
+            "Weight" : 22000,
+            "vapp" : 117,
+            "vref" : 117,
+            "vga" : 108
+        },
+        {
+            "Weight" : 24000,
+            "vapp" : 122,
+            "vref" : 122,
+            "vga" : 122
+        },
+        {
+            "Weight" : 26000,
+            "vapp" : 127,
+            "vref" : 127,
+            "vga" : 117
+        },
+        {
+            "Weight" : 28000,
+            "vapp" : 132,
+            "vref" : 132,
+            "vga" : 122
+        },
+        {
+            "Weight" : 29000,
+            "vapp" : 136,
+            "vref" : 136,
+            "vga" : 125
+        }]
+    },
+    {
+        "Flap Setting" : 15,
+        "Weights" : [
+        {
+            "Weight" : 18000,
+            "vapp" : 106,
+            "vref" : 105,
+            "vga" : 105
+        },
+        {
+            "Weight" : 20000,
+            "vapp" : 106,
+            "vref" : 106,
+            "vga" : 105
+        },
+        {
+            "Weight" : 22000,
+            "vapp" : 112,
+            "vref" : 112,
+            "vga" : 105
+        },
+        {
+            "Weight" : 24000,
+            "vapp" : 117,
+            "vref" : 117,
+            "vga" : 107
+        },
+        {
+            "Weight" : 26000,
+            "vapp" : 122,
+            "vref" : 121,
+            "vga" : 111
+        },
+        {
+            "Weight" : 28000,
+            "vapp" : 126,
+            "vref" : 126,
+            "vga" : 116
+        },
+        {
+            "Weight" : 29000,
+            "vapp" : 129,
+            "vref" : 129,
+            "vga" : 119
+        }]
+    },
+    {
+        "Flap Setting" : 35,
+        "Weights" : [
+        {
+            "Weight" : 18000,
+            "vapp" : "---",
+            "vref" : 101,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 20000,
+            "vapp" : "---",
+            "vref" : 102,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 22000,
+            "vapp" : "---",
+            "vref" : 107,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 24000,
+            "vapp" : "---",
+            "vref" : 112,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 26000,
+            "vapp" : "---",
+            "vref" : 116,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 28000,
+            "vapp" : "---",
+            "vref" : 120,
+            "vga" : "---"
+        },
+        {
+            "Weight" : 29000,
+            "vapp" : "---",
+            "vref" : 123,
+            "vga" : "---"
+        }]
+    }]
+}
